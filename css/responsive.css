@@ -181,3 +181,135 @@
         font-size:12px;
   }
 }
+@media(min-width:992px) and (max-width:1199.98px){
+    .wrapper {
+        width: 80%;
+    }
+    .ban_left{
+        width:100%;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .ban_right {
+        width: 100%;
+        text-align: center;
+    }
+    .ban_right img {
+        width: 60%;
+    }
+    .abt_img {
+        width: 100%;
+    }
+    .abt_text {
+        width: 100%;
+        text-align: center;
+    }
+    .hero_h{
+        text-align: center !important;
+    }
+    .hero_bottom2 {
+        padding-top:0px;
+    }
+    .hero_bottom button {
+        margin: 10px 8px;
+    }
+    .victor_text {
+        width: 100%;
+        padding-left: 0px;
+    }
+    .h_right {
+        padding-left: 0px;
+        text-align: center;
+    }
+    .service{
+        padding-left:0px;
+    }
+    .service button {
+       display: none;
+    }
+    .single {
+        width: 30%;
+        text-align: center;
+        margin-left: 21px;
+    }
+    .footer_left {
+        width: 50%;
+    }
+    .footer_left p{
+          font-size:12px;
+    }
+    .footer_right {
+        width: 33%;
+    }
+    .footer_right p {
+        margin-left: 65px;
+        font-size: 12px;
+    }
+}
+@media(min-width:1200px) and (max-width:1399.98px){
+    .wrapper {
+        width: 80%;
+    }
+    .ban_left {
+        width:100%;
+        text-align: center;
+        padding-top: 0px;
+        padding-bottom:30px ;
+    }
+    .ban_right {
+        width: 100%;
+        text-align: center;
+    }
+    .ban_right img {
+        width: 60%;
+    }
+    .abt_img {
+        width: 100%;
+    }
+    .abt_text {
+        width: 100%;
+        text-align: center;
+    }
+    .hero_h{
+        text-align: center !important;
+    }
+    .hero_bottom2 {
+        padding-top:0px;
+    }
+    .hero_bottom button {
+        margin: 10px 8px;
+    }
+    .victor_text {
+        width: 100%;
+        padding-left: 0px;
+    }
+    .h_right {
+        padding-left: 0px;
+        text-align: center;
+    }
+    .service{
+        padding-left:0px;
+    }
+    .service button {
+       display: none;
+    }
+    .single {
+        width: 30%;
+        text-align: center;
+        margin-left: 21px;
+    }
+    .footer_left {
+        width: 50%;
+    }
+    .footer_left p{
+          font-size:12px;
+    }
+    .footer_right {
+        width: 33%;
+    }
+    .footer_right p {
+        margin-left: 65px;
+        font-size: 12px;
+    }
+}
+
